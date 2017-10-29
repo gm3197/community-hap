@@ -1,5 +1,6 @@
 # community-hap
 A group of Homekit accessories for use with HAP-NodeJS
+If you have a product that you have made HomeKit compatible with HAP-NodeJS, and you would like to share it, make a pull request, and I would be happy to accept it.
 
 ## BoseSpeaker_accessory.js
 This is an accessory that uses BOSE's SoundTouch API to control any SoundTouch speaker.
