@@ -1,4 +1,6 @@
 # community-hap
+[![license](https://img.shields.io/github/license/GraysonMartin/community-hap.svg)]() [![status](https://img.shields.io/badge/status-amazing-brightgreen.svg)]()
+
 A group of Homekit accessories for use with HAP-NodeJS
 If you have a product that you have made HomeKit compatible with HAP-NodeJS, and you would like to share it, make a pull request, and I would be happy to accept it.
 
