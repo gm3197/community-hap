@@ -15,7 +15,7 @@ Run the following command (in the root of your HAP-NodeJS folder) to install the
 After you have installed the required packages, put the BoseSpeaker_accessory.js file into your accessories folder, and then open it. At the top, you must change the ```speakerIP``` and the ```speakerName``` variables. Hence the name, the ```speakerIP``` variable is the IP address of the speaker on your local network. The ```speakerName``` variable can be whatever you want, and it can be changed when adding the accessory with the Home app.
 
 ## SamsungTV_accessory.js
-This is an accessory that uses an unoffical samsung remote api to control any Samsung Television with "Smart Hub" and "AllShare".
+This is an accessory that uses an unoffical samsung remote api to control (the mute function; I know, its pathetic, if you have any better ideas, please submit a pull request) any Samsung Television with "Smart Hub" and "AllShare".
 Note: You must have your television configured to connect to your wifi, and your HAP-NodeJS device must be on the same network.
 A static IP for the television is recommended, but not required.
 
